@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monster Creation/Monster Generation by Hand.md",
+                "file": "Gameplay/Greater Feature List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monster Creation/Monster Generation by Hand.md",
+                "file": "Gameplay/Greater Feature List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monster Creation/Monster Generation by Hand.md",
+                "file": "Gameplay/Greater Feature List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monster Creation/Monster Generation by Hand.md"
+                "file": "Gameplay/Greater Feature List.md"
               }
             }
           },
@@ -156,15 +156,22 @@
   },
   "active": "50b4097183f29a46",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Gameplay/Gameplay Asset File Drop.md",
+    "Gameplay/Core Item List.md",
+    "Gameplay/Core Feature List.md",
+    "Budgeting and Money/Balance Sheet.md",
+    "Budgeting and Money/Thanatic Marketing Document.md",
+    "2D Environment Documentation/To Do- 2D Environment.md",
+    "2D Environment Documentation/2D Design Philosophy.md",
+    "2D Environment Documentation/2D Asset File Drop.md",
     "Monster Creation/Monster Generation by Hand.md",
+    "Untitled.md",
     "Monster Creation",
     "!!! READ FIRST- Design Documentation/Recommended Software List.md",
     "!!! READ FIRST- Design Documentation/Master To Do.md",
     "!!! READ FIRST- Design Documentation/Inspiration- Recommended Games and Art.md",
     "!!! READ FIRST- Design Documentation/Design Document.md",
     "!!! READ FIRST- Design Documentation/!!!!!!!!READ THIS FIRST!!!!!!!!!!.md",
-    "Gameplay/Core Feature List.md",
     "Story and Lore/Technological Timeline.md",
     "Gameplay/Thanatic Game Updates.md",
     "Story and Lore/Overall Timeline.md",
@@ -172,18 +179,11 @@
     "Sound Documentation/Audio Library and Field Recording.md",
     "Gameplay/Greater Item List.md",
     "Gameplay/Greater Feature List.md",
-    "Gameplay/Core Item List.md",
-    "Gameplay/Gameplay Asset File Drop.md",
     "3D Environment Documentation/3D Design Philosophy.md",
     "3D Environment Documentation/To Do- 3D Environment.md",
     "3D Environment Documentation/3D Asset File Drop.md",
-    "2D Environment Documentation/2D Design Philosophy.md",
-    "2D Environment Documentation/To Do- 2D Environment.md",
-    "2D Environment Documentation/2D Asset File Drop.md",
     "Thanatic Game Dev.7z",
     "Story and Lore/Lore.md",
-    "Story and Lore--- In-Game Dialogue/Introductions, Cutscenes, and Credits.md",
-    "Story and Lore--- In-Game Dialogue/UI Dialogues.md",
     "Story and Lore--- In-Game Dialogue",
     "Software for Development",
     "Untitled.canvas",
