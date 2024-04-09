@@ -1,0 +1,37 @@
+Primary Inspirations: (Click their to-do button when you feel like you've accomplished the task.)
+- [ ] Halo (For attention to detail and priority.)
+- [ ] Panzer Dragoon Orta (UI sound inspiration for addictive button clicking and items.)
+- [ ] Dark Cloud (Item/mod slotting sounds. Very satisfying "click in" slotting sounds.)
+
+
+- [ ] INITIAL GAMEPLAY LOOP- Look into the sounds Halo prioritized, and prioritize those:
+	- [ ] Footsteps
+	- [ ] Weapon Noises
+	- [ ] UI Sounds
+		- [ ] Damage
+		- [ ] Shield Regen
+		- [ ] Critical Sounds
+	- [ ] Item, Weapon, & Power Pickups
+	- [ ] Enemy Sounds
+	- [ ] Environmental Sounds
+	- [ ] Music
+- [ ] Panzer Dragoon Sound Inspiration:
+	- [ ] UI interactions
+		- [ ] Button Noises
+			- [ ] Hovering
+			- [ ] Clicking
+		- [ ] Items
+			- [ ] Hovering
+			- [ ] Context Menu Sound
+			- [ ] Using Item Virtually
+			- [ ] Using Item Diagetically
+	- [ ] Ambient UI soundscape
+		- [ ] Activation (Soft hum)
+		- [ ] Ambient Running (Toggleable soft hum/fan. Can alert enemies when unmodded.)
+		- [ ] Moddable white noise, ambient rain, drone tracks, and static sound effects that operate as looping music tracks.
+		- [ ] Damaged/Corrupted UI sound versions
+- [ ] Dark Cloud Inspiration:
+	- [ ] Item Slotting/Modding clicking sounds
+	- [ ] Player noises when swinging, thrusting, or dodging. Should be natural grunting and not as meme-worthy. Even forced breaths could do.
+	- [ ] Atla acquiring sounds
+	- [ ] Opening Container noises

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e842f37fa9044264",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d6afd45c9612f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b4097183f29a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monster Creation/Monster Generation by Hand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c100f958ee9b24a",
+    "type": "split",
+    "children": [
+      {
+        "id": "325af53c07390837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d3ad6476bc0cbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e145dd4d96faf310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38c830cce2df33ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cbcc4d416eb8693",
+    "type": "split",
+    "children": [
+      {
+        "id": "625e8adff82f7219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ace6eafee4912db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Monster Creation/Monster Generation by Hand.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58f8c7992d251a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Monster Creation/Monster Generation by Hand.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19de01a972757964",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ef5318d89704569",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Monster Creation/Monster Generation by Hand.md"
+              }
+            }
+          },
+          {
+            "id": "a943f0a22d737cf4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "50b4097183f29a46",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Monster Creation/Monster Generation by Hand.md",
+    "Monster Creation",
+    "!!! READ FIRST- Design Documentation/Recommended Software List.md",
+    "!!! READ FIRST- Design Documentation/Master To Do.md",
+    "!!! READ FIRST- Design Documentation/Inspiration- Recommended Games and Art.md",
+    "!!! READ FIRST- Design Documentation/Design Document.md",
+    "!!! READ FIRST- Design Documentation/!!!!!!!!READ THIS FIRST!!!!!!!!!!.md",
+    "Gameplay/Core Feature List.md",
+    "Story and Lore/Technological Timeline.md",
+    "Gameplay/Thanatic Game Updates.md",
+    "Story and Lore/Overall Timeline.md",
+    "Sound Documentation/Core Music Design.md",
+    "Sound Documentation/Audio Library and Field Recording.md",
+    "Gameplay/Greater Item List.md",
+    "Gameplay/Greater Feature List.md",
+    "Gameplay/Core Item List.md",
+    "Gameplay/Gameplay Asset File Drop.md",
+    "3D Environment Documentation/3D Design Philosophy.md",
+    "3D Environment Documentation/To Do- 3D Environment.md",
+    "3D Environment Documentation/3D Asset File Drop.md",
+    "2D Environment Documentation/2D Design Philosophy.md",
+    "2D Environment Documentation/To Do- 2D Environment.md",
+    "2D Environment Documentation/2D Asset File Drop.md",
+    "Thanatic Game Dev.7z",
+    "Story and Lore/Lore.md",
+    "Story and Lore--- In-Game Dialogue/Introductions, Cutscenes, and Credits.md",
+    "Story and Lore--- In-Game Dialogue/UI Dialogues.md",
+    "Story and Lore--- In-Game Dialogue",
+    "Software for Development",
+    "Untitled.canvas",
+    "Code Documentation",
+    "Shitposting Containment",
+    "Game Dev Team",
+    "Story and Lore",
+    "Untitled 1.canvas",
+    "Budgeting and Money/Untitled",
+    "Budgeting and Money/Expenses"
+  ]
+}

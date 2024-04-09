@@ -1,0 +1,1 @@
+This is a catchall for assets that do not belong in 2D, 3D, Code, Sound, or Writing assets. If you've somehow found a way to put a file into here, please let me know.

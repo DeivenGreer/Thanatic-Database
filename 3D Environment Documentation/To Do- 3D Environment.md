@@ -1,0 +1,2 @@
+- [x] Establish [[Core Item List]] to create the initial gameplay loop.
+	- [ ] Create first 3D models in GIMP for all core items.
